@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @arcan5331
+- 👀 I’m interested in software developing and ANIME
+- 🌱 I’m currently learning c++
+- 📫 How to reach me 
+- email : alighaforian@yahoo.com
