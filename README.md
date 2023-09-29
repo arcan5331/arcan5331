@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arcan5331
-- 👀 I’m interested in software developing and ANIME
-- 🌱 I’m currently learning PHP and Laravel 
+- 👀 I’m interested in software developing
+- 🌱 I’m currently learning PHP-Laravel 
 - 📫 How to reach me 
 - email : alighaforian@yahoo.com
